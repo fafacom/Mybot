@@ -117,10 +117,10 @@ global.mess = {
     wait: 'Sedang prosess..',
     linkm: 'Mana linknya ktl?',
     error: 'Kesalahan!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    endLimit: 'No limit',
+    ban: 'Anda telah diblokir oleh owner, jika Anda ingin diblokir, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banchat: 'The bot was banned in this group, please contact the owner to unban'
 }
     global.limitawal = {
     premium: "no limit"
